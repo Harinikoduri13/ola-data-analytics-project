@@ -11,7 +11,7 @@
 ![Overview](images/overview.png)
 
 ### Vehicle Analysis
-![Vehicle Analysis](images/vehicle_type.png)
+![Vehicle Analysis](images/vechile_type.png)
 
 ### Revenue Analysis
 ![Revenue Analysis](images/revenue.png)
